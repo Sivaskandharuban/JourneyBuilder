@@ -1,4 +1,4 @@
-{
+/*{
     "workflowApiVersion": "1.1",
     "metaData": {
         "icon": "images/icon.png",
@@ -71,4 +71,4 @@
             }
         }
     }
-}
+}*/
