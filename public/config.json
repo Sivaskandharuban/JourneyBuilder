@@ -35,7 +35,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://<your-domain-here>/journeybuilder/execute",
+          "url": "https://samplejourneyemail.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
